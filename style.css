@@ -1,0 +1,14 @@
+a {
+  font-style: oblique;
+}
+
+a,
+p,
+ol,
+ul {
+  font-size: 20px;
+}
+
+img {
+  align-self: center;
+}
