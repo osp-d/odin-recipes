@@ -12,3 +12,18 @@ ul {
 img {
   align-self: center;
 }
+
+h1.heading {
+  text-align: center;
+}
+
+.main-list li {
+  padding: 4px 0px;
+}
+
+.img-pizza,
+.img-tater,
+.img-lasagna {
+  display: block;
+  margin: auto;
+}
